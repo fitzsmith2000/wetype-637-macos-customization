@@ -9,6 +9,10 @@ A Hermes/Claude skill for customizing WeType 2.2.1 (Build 637) on macOS — cand
 - **Settings interface**: Dark recessed switches + white fill buttons with black text
 - **Complete workflow**: Build → Sign → Verify → Install → Test → Rollback
 
+## 效果展示
+
+![WeType 637 输入法界面](assets/wetype-637-showcase.png)
+
 ## Version
 
 - **Skill version**: v1.1.0
