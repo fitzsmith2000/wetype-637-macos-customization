@@ -1,0 +1,32 @@
+# 敏感信息
+*.p12
+*.mobileprovision
+**/signing-entitlements-*
+**/*teamid*
+**/*TEAMID*
+
+# WeType 二进制和构建产物
+WeType*.app
+WeType*.bundle
+*.disabled
+
+# 备份
+backups/
+*.backup
+*.original
+*.ips
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 个人信息
+**/*fitz*
+**/Users/
+/Library/Input Methods/
